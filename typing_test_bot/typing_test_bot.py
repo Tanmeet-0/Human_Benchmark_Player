@@ -1,4 +1,4 @@
-import pynput, pytesseract, time, os
+import pynput, pytesseract, time
 from PIL import Image, ImageGrab
 from threading import Thread
 

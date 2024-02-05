@@ -44,7 +44,7 @@ When the red box turns green, click on the green box as fast as you can.
 
 # Bot Completion Status
 
-- [ ] Typing Test
+- [x] Typing Test
 - [ ] Visual Memory Test
 - [ ] Chimp Test
 - [ ] Verbal Memory Test
